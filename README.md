@@ -16,7 +16,4 @@ npm start
 
 ## TODO:
 
-* Fix the critical bug which makes the application not run
-
-* Modify the application to make it show dogs of a specific breed
-
+* Nothing
